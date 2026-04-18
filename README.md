@@ -1,16 +1,10 @@
-
-
-
-
-
-
-# ConferenciApp
+# ConferenciApp 📊
 
 > Aplicação desktop desenvolvida em Python para automatização de conciliação financeira entre dados do sistema interno (Excel/CSV) e arquivos dos parceiros (PDF/CSV).
 
 ---
 
-## Contexto
+## 💡 Contexto
 
 Em operações financeiras com múltiplos parceiros de crédito, é comum receber arquivos de diferentes formatos (Excel, CSV, PDF) que precisam ser comparados com os dados do sistema interno — processo chamado de **conciliação bancária**.
 
@@ -18,7 +12,7 @@ Este sistema automatiza esse fluxo, eliminando comparações manuais, reduzindo 
 
 ---
 
-## Funcionalidades
+## ✨ Funcionalidades
 
 - **Identificação de parceiro por código** — interface simples, sem necessidade de navegar em menus
 - **Geração automática de resumo financeiro** — totais de Valor Bruto, Valor Líquido, IOF, e outros campos
@@ -30,7 +24,7 @@ Este sistema automatiza esse fluxo, eliminando comparações manuais, reduzindo 
 
 ---
 
-## Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
 | Tecnologia | Uso |
 |---|---|
@@ -43,7 +37,7 @@ Este sistema automatiza esse fluxo, eliminando comparações manuais, reduzindo 
 
 ---
 
-## Estrutura do projeto
+## 📁 Estrutura do projeto
 
 ```
 ConferenciApp/
@@ -73,7 +67,7 @@ ConferenciApp/
 
 ---
 
-## Como executar
+## 🚀 Como executar
 
 ### Pré-requisitos
 
@@ -89,7 +83,7 @@ python main.py
 
 ---
 
-## Como funciona
+## 🖥️ Como funciona
 
 1. O usuário digita o **código do parceiro** na interface
 2. O sistema identifica o parceiro e exibe o nome correspondente
@@ -100,7 +94,7 @@ python main.py
 
 ---
 
-## Destaques técnicos
+## 📌 Destaques técnicos
 
 - Leitura inteligente de CSV com detecção automática de separador e encoding (`utf-8` / `latin-1`)
 - Extração de tabelas de PDFs com múltiplas páginas usando `pdfplumber`
@@ -110,7 +104,7 @@ python main.py
 
 ---
 
-## Autor: Gabriel Guastti de Almeida
+## 👤 Autor: Gabriel Guastti de Almeida
 
 Desenvolvido como projeto pessoal para automação de processos financeiros.  
 Portfólio: [github.com/seu-usuario](https://github.com/guastti-py)  
