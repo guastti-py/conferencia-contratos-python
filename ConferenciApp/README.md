@@ -1,5 +1,7 @@
 # ConferenciApp 📊
 
+![Tela do sistema](ConferenciApp/img_conferencia_app.png)
+
 > Aplicação desktop desenvolvida em Python para automatização de conciliação financeira entre dados do sistema interno (Excel/CSV) e arquivos dos parceiros (PDF/CSV).
 
 ---
@@ -106,6 +108,6 @@ python main.py
 
 ## 👤 Autor: Gabriel Guastti de Almeida
 
-Desenvolvido como projeto pessoal para automação de processos financeiros.  
-Portfólio: [github.com/seu-usuario](https://github.com/guastti-py)  
-LinkedIn: [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/gabriel-guastti-de-almeida-analista-de-dados/)
+Projeto desenvolvido com foco em automação de processos financeiros, redução de erros operacionais e ganho de eficiência.  
+Portfólio: (https://github.com/guastti-py)  
+LinkedIn: (https://www.linkedin.com/in/gabriel-guastti-de-almeida-analista-de-dados/)
