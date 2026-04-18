@@ -1,6 +1,6 @@
 # ConferenciApp 📊
 
-![Tela do sistema](img_conferencia_app.png)
+![Tela do sistema](ConferenciApp/img_conferencia_app.png)
 
 > Aplicação desktop desenvolvida em Python para automatização de conciliação financeira entre dados do sistema interno (Excel/CSV) e arquivos dos parceiros (PDF/CSV).
 
